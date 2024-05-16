@@ -1,0 +1,25 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: #fcfafa;
+    text-align: left;
+    font-size: large;
+    background-color: rgb(65, 94, 120);
+  
+    
+}
+
+h1{
+ scroll-behavior: smooth;
+}
+a[href="#top"]{
+    padding:10px;
+    position:fixed;
+    top: 90%;
+    right:40px;
+    display:none;
+    font-size: 30px;
+}
+a[href="#top"]:hover{
+    text-decoration:none;
+}
